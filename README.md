@@ -1,6 +1,8 @@
 # IGCSE Speaking Examiner (AI-Powered)
 An AI examiner that conducts and evaluates Cambridge IGCSE First Language English (0500) speaking tests — simulating the structure, prompts, and assessment criteria of the real exam.
 
+---
+
 ## What it does
 - Guides a student through a structured speaking test (prepared topic + conversation phase)
 - Asks follow-up questions dynamically based on the student's responses
